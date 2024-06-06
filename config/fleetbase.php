@@ -37,7 +37,7 @@ return [
     ]*/
 
     'branding' => [
-        'logo_url' => 'https://www.carvach.com/carvachLogo.svg',
-        'icon_url' => 'https://www.carvach.com/carvachLogo.svg'
+        'logo_url' => 'https://raw.githubusercontent.com/Rohit0814/test/main/final%20full%20logo2.png',
+        'icon_url' => 'https://raw.githubusercontent.com/Rohit0814/test/main/final%20full%20logo2.png'
     ]
 ];
